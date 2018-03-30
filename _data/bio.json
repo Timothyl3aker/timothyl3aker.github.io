@@ -4,26 +4,94 @@
     "label": "NETWORK ENGINEER | R&S",
     "picture": "",
     "email": "Tim.l3aker@gmail.com",
-    "phone": "415.912.8733",
-    "degree": "",
+    "phone": "415.912.8733",,
     "website": "",
     "summary": "Network Engineer with 10 years of experience in Data/VOIP managed services, design, deployment, and support.  Hands on experience implementing and troubleshooting complex voice and data solutions.  Proven ability to work effectively in a team environment and meet deadlines consistently.",
     "highlights": null,
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Rancho Cordova",
-      "countryCode": "USA",
-      "region": "California"
+    "address": "",
+    "postalCode": "",
+    "city": "Rancho Cordova",
+    "countryCode": "USA",
+    "region": "California"
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "github",
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
+      },
+      {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
+  "interests": [
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Core Competencies",
+      "level": "Senior",
+      "keywords": [
+        "· BGP, OSPF, EIGRP, HSRP, VRRP, GLBP, VTP, RSTP, MSTP
+· EVC/Metro E, MPLS, T1/T3/DS3, MLPP
+· L2LVPN, IP SLA, DMVPN, HA, IPSEC and SSL VPN
+· PRI, CAAS, Digital Sip Trunking, SIP, SCCP"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cisco Certrack",
+      "area": "CCNA, CCNP Route and Switch",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
   "work": [
     {
       "company": "Edge Network Services",
@@ -33,12 +101,10 @@
       "endDate": "Present",
       "summary": "Responsible for network operations",
       "highlights": [
-        "· Provide 24x7 break/fix support for all core devices across the network.
-· Configure and troubleshoot Core hardware: Cisco ASR1000, Nexus 7200 series routers. Cisco 4500, 3700 & 3500 series switches, Cisco 5510X & 5512X ASA's."
+      "Provide 24x7 break/fix support for all core devices across the network",
+      "Configure and troubleshoot Core hardware: Cisco ASR1000, Nexus 7200 series routers. Cisco 4500, 3700 & 3500 series switches, Cisco 5510X & 5512X ASA's."
       ]
-    }
-  ],
-  "additionalWork": [
+    },
     {
       "company": "Telesphere Networks/Vonage Business",
       "position": "Network Engineer II - Data",
@@ -48,6 +114,155 @@
       "summary": "",
       "highlights": [
         "· Build core side NNI's, and CUGs.
+· Test and Turn up carrier NNI's.
+· Design and build core customer configurations.
+· Managed core configurations using rancid among other Linux based tools.
+· Track vrf associations to customer codes and manage all core and customer vrf's.
+· Communicate use of S-tags and C-tags to distinguish customer data at the core and PE with carriers.
+· Participated in team of 3 to create a private voice solution for VELO Cloud sd-wan in its infancy.  The solution for the Velo Cloud voice deployment resulted in a patent for the manufacturer.
+· Lead all Enterprise nationwide SD-Wan conversions.
+· Served as SME for all site to site VPN, and SD-Wan voice/data deployments.  
+· Responsible for configuration of customer premises equipment and core network equipment for new and existing customers.
+· Oversee turn up and testing of CPE with field technicians and provisioning team.
+· Configure and troubleshoot the following hardware: Cisco ASR1000, 7200, 7600, 1900, 2900 & 3900 series routers.  Cisco Nexus 7000, 4500 3700, and 3500, Cisco SMB series, Brocade 6500 switches.  Cisco 5505, 5510 & 5512­X ASA's.  Adtran 900 series, Netvanta 3430/4430 routers and Adtran 1234 switches.
+· Work directly with customer engineers to find individualized solutions for customers with advanced network requirements. This includes voice/data fail over, redundant hardware fail over and centralized firewall solutions.
+· Create documentation and visuals for service delivery to provide customers.
+· Test and finalize advanced CPE and core network templates for future deployments.
+· Completed several nationwide MPLS conversions, some with as many as 5000+ locations.
+· Implement and troubleshoot the following protocols/circuits/deployments: BGP, EIGRP, OSPF, IPSec, GRE, MST, RPVST, HSRP, VRRP, LLDP, CDP, DHCP, SIP, T1's, Metro Ethernet, MPLS, MLPPP, Ether-channels/Link-Aggregation, VLAN's, VRF's, & 802.1Q trunking.
+· Act as main technical escalation point for voice and data provisioning group within Service Delivery.
+· Responsible for adding new customers into Cacti monitoring system.
+· Support one off installs for SIP Trunking for customer Asterisk PBX's, Cisco Call Manger and CUBE.
+· Design and implement voice builds for customers on the Broadworks voice platform.
+· Build Sip trunks for on-net and off-net (proxy) deployments."
+      ]
+    },
+    {
+	  "company": "Meritage Homes",
+      "position": "Network Engineer",
+      "website": "",
+      "startDate": "2011-04",
+      "endDate": "2014-02",
+      "summary": "",
+	  "highlights": [
+        "· Provided support maintenance and installation of Cisco 5500 series ASAs, 2900, 1900, 800 series routers, and 3700, 3500, 2900 series switches.
+· Completed test and turn up for sales offices and division offices including troubleshooting any issues with circuits.
+· Deployed DMVPN for sales offices/communities to provide secure off-net WAN connectivity.
+· Managed and configure Cisco RA VPN.
+· Maintin and deployed Tacacs, and Radius for SSO using Windows domain credentials.
+· Provisioned Cisco IP phones for sales and division offices using CCM.
+· Cisco Unity and division IVR maintenance.
+· Configured dial plans and call routing for new offices.
+· Ownership of call center issues and maintenance of  Cisco UCCE.
+· Distinguished voice and data traffic via QOS to remedy intermittent voice quality isssues.
+· Transitioned all internal prefixes to EIGRP.
+· Create Redhat and Centos VM's to manage WAN resources.
+· Configure playbooks to automate deployment of task specific Vm's.
+· Supported two offsite Datacenters and DR site.
+· Participated with a team of three to virtualize 80 percent of the environment."
+      ]
+    },
+    {
+	  "company": "iMortgage/Enterprise Technology Services",
+      "position": "IT Manager/Network Administrator",
+      "website": "",
+      "startDate": "2009-01",
+      "endDate": "2011-04",
+      "summary": "",
+      "highlights": [
+        "· Managed a team of four technicians
+· Provided all network administration tasks and planned upgrades/patches coordinating team of techs and engineers to minimize downtime and impact on operations.
+· Troubleshoot circuit issues at corporate and remote offices.
+· Update and maintain Cisco IOS versions on all corporate routers, firewalls, and switches.
+· Provided L2 segmentation of internal traffic using MSTP.
+· Administer Windows Server 2008, 2003, Active Directory, and MS Exchange Server.
+· Provisioning and maintenance of SAN volumes.
+· Manage Citrix and VPN access for remote employees.
+· Automated onboarding and termination of employees using Windows Powershell scripting.
+· Monitored network performance, analyzed traffic, resolved internal network issues, and escalated provider side issues.
+· Responsible for all Cisco UCCX issues to ensure call center service level.
+· CUCM phone provisioning and Cisco Unity voicemail management."
+      ]
+    },
+    {
+	  "company": "SBCIIS Network Services",
+      "position": "2nd Tier Support Agent",
+      "website": "",
+      "startDate": "2007",
+      "endDate": "2009",
+      "summary": "",
+      "highlights": [
+        "· Assist LFOs with residential FTTN and FTTP turn ups.
+· Troubleshoot signal attenuation and detect bridge taps to facilitate service.
+· Build and troubleshoot residential VDSL circuits.
+· Support LFO dispatch to CO to ensure proper line card configuration.
+· Terminate optical nodes for service."
+      ]
+    },
+    {
+	  "company": "Phase 2 solutions/Etelecare",
+      "position": "SBC DSL Support/Dell XPS Tier 2 Supervisor",
+      "website": "",
+      "startDate": "2000",
+      "endDate": "2007",
+      "summary": "",
+      "highlights": [
+        "·  Senior manager in a team of ten responsible for 100 support agents.
+· Provided technical warranty support for Dell XPS customers.
+· Trained a team of managers to replicate the project in the Phillipines for Dell.
+· Supported SBC DSL customers with residential internet issues.
+· Served as SME for SBC DSL home networking issues."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
 · Test and Turn up carrier NNI's.
 · Design and build core customer configurations.
 · Managed core configurations using rancid among other Linux based tools.
