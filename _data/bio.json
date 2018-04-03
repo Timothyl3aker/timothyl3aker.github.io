@@ -18,22 +18,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "tbaker",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "tbaker",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "tbaker",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "tbaker",
         "url": "http://instagram.com/changeme"
       }
     ]
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "gamin",
       "keywords": [
       ]
     },
@@ -72,10 +72,13 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+	"GNS3",
+	"Wireshark",
+	"Packet Tracer",
+	"Rancid",
+	"Secure CRT",
+        "Linux",
         "Git/GitHub",
-        "g++",
         "TI LaunchPad"
       ]
     }
