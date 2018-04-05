@@ -4,8 +4,8 @@
     "label": "NETWORK ENGINEER | R&S",
     "picture": "",
     "email": "Tim.l3aker@gmail.com",
-    "phone": "415.912.8733",
-    "website": "",
+    "phone": "",
+    "website": "https://timl3aker.herokuapp.com",
     "summary": "Network Engineer with 10 years of experience in Data/VOIP managed services, design, deployment, and support.  Hands on experience implementing and troubleshooting complex voice and data solutions.  Proven ability to work effectively in a team environment and meet deadlines consistently.",
     "highlights": null,
     "location": {
@@ -40,17 +40,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
       ]
     },
     {
-      "name": "board sports",
+      "name": "Board Sports",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -100,9 +100,9 @@
       "website": "",
       "startDate": "2016-10",
       "endDate": "Present",
-      "summary": "Responsible for network operations",
+      "summary": "Responsible for all network operations task",
       "highlights": [
-      "Provide 24x7 break/fix support for all core devices across the network",
+      "Provide 24x7 design/provsiong/break/fix support for all core devices across the network",
       "Configure and troubleshoot Core hardware: Cisco ASR1000, Nexus 7200 series routers. Cisco 4500, 3700 & 3500 series switches, Cisco 5510X & 5512X ASA's."
       ]
     },
@@ -218,43 +218,40 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
